@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 61 products, 17 sources, 2 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/rtl/PositFMA.scala, ${BASE}/src/main/scala/old/Old_PositEMA1.scala, ${BASE}/src/main/scala/function/Abs.scala, ${BASE}/src/main/scala/old/Old_QuireToPosit.scala, ${BASE}/src/main/scala/rtl/QuireToPosit.scala, ${BASE}/src/main/scala/rtl/PositEMA.scala, ${BASE}/src/main/scala/function/LZD.scala, ${BASE}/src/main/scala/function/Shift.scala, ${BASE}/src/main/scala/function/LOD.scala, ${BASE}/src/main/scala/convert/RawFloat.scala, ${BASE}/src/main/scala/rtl/PositDivisionSqrt.scala, ${BASE}/src/main/scala/rtl/PositAdder.scala, ${BASE}/src/main/scala/convert/convert.scala, ${BASE}/src/main/scala/lzdTest.scala, ${BASE}/src/main/scala/make/MakeRTL.scala, ${BASE}/src/main/scala/rtl/PositMultiplier.scala, ${BASE}/src/main/scala/old/Old_PositEMA2.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

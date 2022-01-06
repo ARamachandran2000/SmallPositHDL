@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/anjana/Documents/FYP/SmallPositHDL/target/scala-2.12/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositMulSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositMultiplierTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositAdderSpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositTest82.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositAdderSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositAdderTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositSpec$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMASpec$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositTest80.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositTest40.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMATest82.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositMulSpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositFMASpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositSpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMASpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositDivSqrtSpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositTest81.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositSpec$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMATest40.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMATest80.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	QuireToPositSpec$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositFMASpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositFMATest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMASpec$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMASpec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMATest81.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositDivSqrtSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositDivSqrtTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PositEMASpec$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/anjana/Documents/FYP/SmallPositHDL/target/scala-2.12/test-classes.bak[0m

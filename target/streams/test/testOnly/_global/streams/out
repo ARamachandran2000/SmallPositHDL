@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(posit.wave.PositAdderSpec, org.scalatest.tools.Framework$$anon$1@65324cfd, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPositAdderSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mposit adder module[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should properly add posit types *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.AssertionError: assertion failed:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.Predef$.assert(Predef.scala:223)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.assert$.apply(Assert.scala:76)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.iotesters.setupVerilatorBackend$.apply(VerilatorBackend.scala:275)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.iotesters.Driver$.$anonfun$execute$2(Driver.scala:55)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.java:23)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at logger.Logger$.$anonfun$makeScope$2(Logger.scala:168)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.util.DynamicVariable.withValue(DynamicVariable.scala:62)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at logger.Logger$.makeScope(Logger.scala:166)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at logger.Logger$.makeScope(Logger.scala:127)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.iotesters.Driver$.$anonfun$execute$1(Driver.scala:38)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 8 seconds, 611 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	posit.wave.PositAdderSpec[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m
